@@ -81,4 +81,6 @@ npm i -D sass
 npm i -D hans-ui-design-lib
 
 npm install -D vitest @testing-library/react @testing-library/jest-dom jsdom
+
+npm i -D @vitest/coverage-v8 @vitest/ui
 ```
