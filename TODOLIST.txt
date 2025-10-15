@@ -1,5 +1,4 @@
 -Watch a Next.js tutorial to learn the basics
--Edit the README.md file
 -Set the test stack of the project
 -Edit the layout and page components
 -Set the build/deploy on Vercel
