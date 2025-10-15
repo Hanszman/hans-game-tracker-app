@@ -1,5 +1,7 @@
 import type { Metadata } from "next";
 import { Geist, Geist_Mono } from "next/font/google";
+import { ClientButton } from "@/components/ClientButton/ClientButton";
+import "hans-ui-design-lib/style.css";
 import "./globals.css";
 
 const geistSans = Geist({
@@ -23,10 +25,11 @@ export default function RootLayout({
   children: React.ReactNode;
 }>) {
   return (
-    <html lang="en">
+    <html lang="en" data-theme="combination1">
       <body
         className={`${geistSans.variable} ${geistMono.variable} antialiased`}
       >
+        TESTE: <ClientButton label="Button" />
         {children}
       </body>
     </html>
