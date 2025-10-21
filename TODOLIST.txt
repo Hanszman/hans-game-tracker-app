@@ -1,6 +1,6 @@
 -Watch a Next.js tutorial to learn the basics
 -Edit the layout and page components
--Set the build/deploy on Vercel (Trying)
+-Set the build/deploy on Vercel (Trying !!!)
 -Implement some basic Front-End features
 -Create the Nest.js Back-End project
 -Create the React Native Mobile project
