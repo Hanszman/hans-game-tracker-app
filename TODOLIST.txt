@@ -1,5 +1,4 @@
 -Watch a Next.js tutorial to learn the basics
--Edit the layout and page components
 -Implement some basic Front-End features
 -Create the Nest.js Back-End project
 -Create the React Native Mobile project
