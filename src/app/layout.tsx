@@ -1,4 +1,4 @@
-import { ClientButton } from "@/components/ClientButton/ClientButton";
+import { ClientRoot } from "@/components/ClientRoot/ClientRoot";
 import "hans-ui-design-lib/style.css";
 import "./globals.css";
 
@@ -10,7 +10,7 @@ export default function RootLayout({
   return (
     <html lang="en" data-theme="combination1">
       <body>
-        TESTE: <ClientButton label="Button" />
+        TESTE: <ClientRoot />
         {children}
       </body>
     </html>
