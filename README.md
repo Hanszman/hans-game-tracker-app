@@ -9,7 +9,7 @@ A **Next.js + React + TypeScript Front-End App** that can organize your game bac
 - ✅ **Vitest + React Testing Library + JSDOM** for unit and integration testing
 - 📊 **Test Coverage (V8)** with HTML reports
 - 🧹 **ESLint + Prettier** for code quality and formatting
-- ♾️ Deployed by **Vercel** at https://hans-game-tracker-app.vercel.app/
+- ♾️ Deployed by **Vercel** at https://hans-game-tracker.vercel.app/
 - **Node Version to build this project: 22.18.0 and npm 11.8.0**
 
 ## 🧑‍💻 Development
@@ -83,4 +83,6 @@ npm i -D hans-ui-design-lib
 npm install -D vitest @testing-library/react @testing-library/jest-dom jsdom
 
 npm i -D @vitest/coverage-v8 @vitest/ui
+
+npm install next@15.5.7 react@19.1.5 react-dom@19.1.5 eslint-config-next@15.5.7
 ```
