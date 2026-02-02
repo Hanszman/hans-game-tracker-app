@@ -1,3 +1,4 @@
+-Update Next.js version to avoid vulnerabilities https://vercel.com/kb/bulletin/react2shell & https://vercel.com/hanszmans-projects/hans-game-tracker/3EnwSGEttrMV2pUiNUMfQVF2nYKf
 -Implement some basic Front-End features
 -Create the Nest.js Back-End project
 -Watch a React Native tutorial to learn the basics
