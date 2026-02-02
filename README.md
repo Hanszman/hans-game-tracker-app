@@ -10,7 +10,7 @@ A **Next.js + React + TypeScript Front-End App** that can organize your game bac
 - 📊 **Test Coverage (V8)** with HTML reports
 - 🧹 **ESLint + Prettier** for code quality and formatting
 - ♾️ Deployed by **Vercel** at https://hans-game-tracker-app.vercel.app/
-- **Node Version to build this project: 22.18.0 and npm 10.9.3**
+- **Node Version to build this project: 22.18.0 and npm 11.8.0**
 
 ## 🧑‍💻 Development
 
