@@ -1,3 +1,4 @@
+import React from "react";
 import { ClientRoot } from "@/components/ClientRoot/ClientRoot";
 import "hans-ui-design-lib/style.css";
 import "./globals.css";

@@ -13,6 +13,31 @@ const GAME_TRACKER_THEME = {
     default: "#3b82f6",
     neutral: "#bfdbfe",
   },
+  success: {
+    strong: "#166534",
+    default: "#16a34a",
+    neutral: "#bbf7d0",
+  },
+  danger: {
+    strong: "#991b1b",
+    default: "#ef4444",
+    neutral: "#fecaca",
+  },
+  warning: {
+    strong: "#92400e",
+    default: "#f59e0b",
+    neutral: "#fde68a",
+  },
+  info: {
+    strong: "#155e75",
+    default: "#06b6d4",
+    neutral: "#cffafe",
+  },
+  base: {
+    strong: "#334155",
+    default: "#64748b",
+    neutral: "#cbd5e1",
+  },
   backgroundColor: "#f8fafc",
   textColor: "#0f172a",
 };
