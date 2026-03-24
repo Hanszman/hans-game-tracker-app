@@ -4,13 +4,13 @@ A **Next.js + React + TypeScript Front-End App** that can organize your game bac
 
 ## 🚀 Features
 
-- ⚛️ **Next.js 15.5.5** with **React 19.1.0** and **TypeScript 5** for type safety
+- ⚛️ **Next.js 15.5.14** with **React 19.2.4** and **TypeScript 5** for type safety
 - 🎨 **TailwindCSS + SCSS** for styling flexibility
 - ✅ **Vitest + React Testing Library + JSDOM** for unit and integration testing
 - 📊 **Test Coverage (V8)** with HTML reports
 - 🧹 **ESLint + Prettier** for code quality and formatting
 - ♾️ Deployed by **Vercel** at https://hans-game-tracker.vercel.app/
-- **Node Version to build this project: 22.18.0 and npm 11.8.0**
+- **Node Version to build this project: 24.14.1 and npm 11.11.0**
 
 ## 🧑‍💻 Development
 
@@ -60,8 +60,8 @@ npm run start
 
 ## 🛠️ Tech Stack
 
-- **Next.js 15.5.5**
-- **React 19.1.0**
+- **Next.js 15.5.14**
+- **React 19.2.4**
 - **TypeScript 5**
 - **TailwindCSS**
 - **SCSS**
@@ -84,5 +84,5 @@ npm install -D vitest @testing-library/react @testing-library/jest-dom jsdom
 
 npm i -D @vitest/coverage-v8 @vitest/ui
 
-npm install next@15.5.7 react@19.1.5 react-dom@19.1.5 eslint-config-next@15.5.7
+npm install next@15.5.14 react@19.2.4 react-dom@19.2.4 eslint-config-next@15.5.14
 ```
